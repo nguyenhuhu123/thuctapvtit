@@ -1,0 +1,189 @@
+p {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.hi{
+  display: flex;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.bentrai{
+  display: flex;
+  flex-direction: row;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.thanhmenu{
+  background-image: url(hinhnen.png);
+  background-size: cover;
+  min-height: 100vh;
+  width: 1251.7px;
+  height: 1080px;
+  top: 1081px;
+  left: -2px;
+}
+
+.hinh{
+  background: url(aloo.svg);
+  width: 842.82px;
+  height: 613.81px;
+  margin-top: 155px;
+  margin-left: 158px;
+  margin-bottom: 0;
+}
+
+.chu1{
+  display: flex;
+  align-items: center;
+  width: 735px;
+  height: 55px;
+  margin-top: 42.19px;
+  margin-left: 222px;
+  margin-bottom: 0;
+  font-family: Helvetica;
+  font-size: 48px;
+  color: rgba(86, 128, 249, 1);
+}
+
+.chu2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 577px;
+  height: 30px;
+  margin-top: 18px;
+  margin-left: 301px;
+  margin-right: 373.7px;
+  font-family: "Quicksand";
+  font-size: 24px;
+  color: rgba(86, 128, 249, 1);
+}
+
+.benphai{
+  display: flex;
+  flex-direction: row;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.dangnhap{
+  display: flex;
+  flex-direction: column;
+  width: 569px;
+  height: 639px;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0px 4px 24px 0px 
+  rgba(86, 85, 210, 0.24);
+  margin-top: 229px;
+  margin-left: 6.3px;
+  margin-right: 95px;
+  margin-bottom: 230px;
+  border-radius: 16px;
+}
+
+.header{
+  display: flex;
+  flex-direction: row;
+  background-color:rgba(238, 0, 51, 1);
+  width: 100%;
+  height: 70px;
+  border-radius: 16px 16px 0px 0px;
+}
+
+.quen{
+  color: white;
+  width: 89px;
+  height: 20px;
+  font-family: "Quicksand";
+  font-size: 16px;
+  text-decoration: none;
+  margin-left: 20px;
+  margin-top: 25px;
+}
+
+.header .mk{
+  width: 157px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: "Quicksand";
+  font-size: 24px;
+  margin-left: 88px;
+  margin-top: 20px;
+}
+
+.caicuoi{
+  display: flex;
+  flex-direction: column;
+}
+
+.nhinne{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(nhin.svg);
+  width: 219px;
+  height: 180px;
+  margin-top: 33px;
+  margin-left: 175px;
+}
+
+.ban{
+  font-family: "Quicksand";
+  font-size: 24px;
+  color: rgba(238, 0, 51, 1);
+  margin-top: 32px;
+  margin-left: 52px;
+  font-weight: 700;
+}
+
+.dunglo{
+  font-family: "Quicksand";
+  font-size: 16px;
+  color: black;
+  font-weight: 400;
+  margin-top: 3px;
+  margin-left: 52px;
+}
+
+.hopcuoi{
+  width: 447px;
+  height: 58px;
+  border-radius: 8px;
+  border-style: solid;
+  border-width: 1px;
+  margin-top: 32px;
+  margin-bottom: 0;
+  margin-left: 52px;
+  padding-left: 16px;
+  font-size: 16px;
+  color: rgba(123, 128, 137, 1);
+  font-weight: 400;
+}
+
+.hophet{
+  margin-top: 55px;
+  margin-left: 52px;
+}
+
+.hopcuoicungroi{
+  width: 465px;
+  height: 48px;
+  border-style: none;
+  border-radius: 8px;
+  background-color: rgba(208, 210, 213, 1);
+  color: white;
+}
